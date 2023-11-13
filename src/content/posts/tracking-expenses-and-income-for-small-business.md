@@ -4,7 +4,7 @@ description: "meta description"
 date: 2023-11-13T05:00:00Z
 image: "/images/posts/tracking-expenses-and-income-for-small-business.jpg"
 categories: ["Small Business"]
-authors: ["Mark Dinn"]
+authors: ["Shreyas Amar"]
 tags: ["diy", "toy"]
 draft: false
 ---
