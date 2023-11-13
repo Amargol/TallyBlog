@@ -1,23 +1,23 @@
 ---
-title: "I’m John Doe, A content writer based in LDN, Currently at Bookworm"
+title: "Why we made Tally"
 meta_title: "About"
 image: "/images/author.png"
 draft: false
 
 what_i_do:
-  title: "What I Do"
+  title: "Features"
   items:
-  - title: "Content Writing"
-    description: "Purus eget ipsum elementum venenatis, quis rutrum mi semper nonpurus eget ipsum elementum venenatis."
+  - title: "Categorize"
+    description: "Use AI to automatically sort transactions by category for easy tracking and budgeting"
   
-  - title: "Photography"
-    description: "Aenean maximus urna magna elementum, quis rutrum mi semper non purus eget ipsum venenatis."
+  - title: "Organize"
+    description: "Flag, note, and attach images to transactions, simplifying tax filing and financial record-keeping"
   
-  - title: "Web Research"
-    description: "Aenean maximus urna magna elementum venenatis, quis semper non purus eget ipsum venenatis."
+  - title: "Search"
+    description: "Quickly retrieve and analyze spending data. Improve your financial decision-making"
 
 ---
 
-A content writer with over 12 years experience working across brand identity, publishing and digital products. Maecenas sit amet purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis quis non purus.
+At Tally, we understand the challenges of keeping track of your finances. That's why we've developed an innovative app that simplifies expense tracking and empowers you to take control of your financial well-being. Our target customer is anyone who wants to effortlessly manage their expenses, from busy professionals to budget-conscious families.
 
-Purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget ipsum elementum venenatis, aenean maximus urna magna elementum.
+We created Tally to provide an efficient and intuitive solution for individuals and businesses to track, categorize, and analyze their spending patterns. 

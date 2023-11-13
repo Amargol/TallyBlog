@@ -1,6 +1,6 @@
 {
   "site": {
-    "title": "Bookworm Light Astro | Blog Template",
+    "title": "Tally | Effortless Expense Tracking",
     "base_url": "https://bookworm-light-astro.vercel.app",
     "base_path": "/",
     "trailing_slash": false,
@@ -29,7 +29,7 @@
 
   "contactinfo": {
     "address": "355 S Grand Ave <br/> Los Angeles, CA 90071",
-    "email": "info@bookworm.org",
+    "email": "roocketlabs.team@gmail.com",
     "phone": "+800 567 1234"
   }
 }
